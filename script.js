@@ -92,7 +92,7 @@ yesBtn.addEventListener("click", () => {
   title.classList.add("title-success");
   title.textContent = "УРАААА 😼";
 
-  img.src = "gif.gif";
+  img.src = "./img/gif.gif";
   img.style.display = "block";
 
   bottomText.textContent = "Люблю тебя кошка💖";
